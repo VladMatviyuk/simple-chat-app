@@ -1,0 +1,20 @@
+.container .content .right .usersList {
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  overflow: auto;
+  color: #0b9ed9;
+}
+
+.container .content .right .btnInvite .btn {
+  background: #0433bf;
+  padding: 19px;
+  color: #ffffff;
+  text-align: center;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.hideInput {
+  opacity: 0;
+}

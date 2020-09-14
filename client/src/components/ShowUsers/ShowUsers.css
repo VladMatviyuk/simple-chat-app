@@ -1,0 +1,30 @@
+.showUsers {
+  background: #eee;
+  margin: 0.5rem;
+  padding: 1rem;
+  border-radius: 20px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.user {
+  background: #0b9ed9;
+  color: white;
+  padding: 0.25rem 1rem;
+  margin: 0.25rem 0.25rem;
+  border-radius: 20px;
+  text-align: center;
+}
+
+.inviteLink {
+  margin: 0.5rem;
+  padding: 0.5rem;
+}
+
+.link {
+  background: #0433bf;
+  color: white;
+  padding: 0.25rem 1rem;
+  margin: 0.25rem 0.25rem;
+  border-radius: 5px;
+}
